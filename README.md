@@ -185,7 +185,8 @@
 - [API Reference](http://vuejs.org/api/)
 - [Vue.js 3 GitHub Repo](https://github.com/vuejs/core)
 - [Vue.js 2 GitHub Repo](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
+- [Vue.js 3 Release Notes](https://github.com/vuejs/core/releases)
+- [Vue.js 2 Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
 

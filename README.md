@@ -212,56 +212,93 @@
 - [Vue.js 資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 
 ### Job Portal
-
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Community
-
 - [Twitter](https://twitter.com/vuejs)
 - [Official Forum](http://forum.vuejs.org/)
 - [VueJS English community](https://t.me/vue_en)
-- [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 - [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
 - [Vue Land - Discord chat server](https://chat.vuejs.org)
-- [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
-- [VueJS Vietnam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
-- [VueJS Thailand - Facebook Group](https://www.facebook.com/groups/VuejsThailand/)
+
+#### Arab
+- [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
+
+#### Brasil (Portuguese)
 - [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 - [VueJS Brasil - Facebook Page [Portuguese]](https://www.facebook.com/vuejsbrasil/)
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
-- [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
-- [VueJS India 🇮🇳 - Discord chat server](https://goo.gl/mYXKUv)
-- [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsindonesia)
-- [VueJS Indonesia - Facebook Group [Indonesian]](https://www.facebook.com/groups/1675298779418239/)
-- [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
-- [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
-- [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
-- [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
-- [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
+
+#### Castellano
+- [Hablemos de Vue.js - Telegram Group [Castellano]](https://t.me/vuejsEs)
+
+#### Czechia/Slovakia
+- [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
+
+#### Dominican Republic
+- [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
+
+#### Finland
 - [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 - [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
-- [Hablemos de Vue.js - Telegram Group [Castellano]](https://t.me/vuejsEs)
+
+#### Hong Kong
+- [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
+
+#### India
+- [VueJS India 🇮🇳 - Discord chat server](https://goo.gl/mYXKUv)
 - [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
-- [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
-- [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
-- [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
-- [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
-- [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
-- [VueJS Uzbekistan - Telegram Community and Support Group [Uzbek]](https://t.me/vuejs_uz)
+
+#### Indonesia
+- [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsindonesia)
+- [VueJS Indonesia - Facebook Group [Indonesian]](https://www.facebook.com/groups/1675298779418239/)
+
+#### Iran
+- [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
+
+#### Israel
+- [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
+
+#### Norway
+- [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
+
+#### Portuguese
+- [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
+
+#### Russian
+- [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
+
+#### Singapore
+- [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
+
+#### Spanish Speaking
+- [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
+
+#### Thailand
+- [VueJS Thailand - Facebook Group](https://www.facebook.com/groups/VuejsThailand/)
+
+#### Turkey
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
-- [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
+
+#### USA
+- [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
+
+#### Uzbekistan
+- [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
+- [VueJS Uzbekistan - Telegram Community and Support Group [Uzbek]](https://t.me/vuejs_uz)
+
+#### Vietnam
+- [VueJS Vietnam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 
 ### Conferences
-
-- [VueConf](http://conf.vuejs.org)
-- [Vue.js London](http://vuejs.london)
-- [VueConf US](http://vueconf.us)
-- [VueConf Toronto](https://vuetoronto.com)
 - [Vue.js Amsterdam](https://vuejs.amsterdam)
+- [VueConf Toronto](https://vuetoronto.com)
+- [VueConf US](http://vueconf.us)
+
 
 ### Podcasts
 

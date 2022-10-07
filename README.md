@@ -420,6 +420,45 @@
 - [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 - [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 - [Vue.js Form Validation](https://vueschool.io/courses/vuejs-form-validation)
+- [The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class)
+- [Vue.js Firebase Realtime Database](https://vueschool.io/courses/vuejs-firebase-realtime-database)
+- [Vue.js Firebase Authentication](https://vueschool.io/courses/vuejs-firebase-authentication)
+- [Dynamic Forms with Vue.js](https://vueschool.io/courses/dynamic-forms-vuejs)
+- [Custom Vue.js Directives](https://vueschool.io/courses/custom-vuejs-directives)
+- [Building an Electron File Explorer with Quasar (and Vue)](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) by [@hawkeye64](https://github.com/hawkeye64). (November 2018)
+- [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/) on `Udemy` by [the Net Ninja](https://www.thenetninja.co.uk/)
+- [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/) on `Udemy` by Maximilian Schwarzmüller
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 1)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-1/) (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 2)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-2/) (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 3)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-3/) (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 4)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-4/) (November 2018)
+- [Adding Internationalization to a Vue Application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application/) (November 2018)
+- [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
+- [How to Dynamically Add a Class Name in Vue](https://michaelnthiessen.com/dynamically-add-class-name/) by Michael Thiessen
+- [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) By Felipe Lima [@scaffoldhub_io](https://twitter.com/scaffoldhub_io)
+- [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) by Saibbyweb
+- [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) on [Pluralsight](https://www.pluralsight.com)
+- [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) by Michael Lynch
+- [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
+- [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
+- [Nordschool Vue Tutorials](https://nordschool.com/tag/vue)
+- [Vue Props Validation - Best Practices](https://nordschool.com/vue-props/)
+- [Vue Router - The Complete Guide](https://nordschool.com/vue-router/)
+- [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/)
+- [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
+- [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
+- [Build Your First Vue.js App in About 30 Minutes](https://raddevon.com/articles/build-your-first-vue-js-app/) by Rad Devon (Video, February 2020)
+- [How to make your components dynamic in Vue JS](https://blog.logrocket.com/how-to-make-your-components-dynamic-in-vue-js/) (September 2019)
+- [Fragments in Vue JS](https://blog.logrocket.com/fragments-in-vue-js/) (December 2019)
+- [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
+- [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [Sharing and re-using Vue Mixins in the cloud with Bit.dev](https://blog.bitsrc.io/sharing-and-reusing-vue-mixins-in-the-cloud-with-bit-dev-830104a48d0b) (May 2019)
+- [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) (June 2019)
+- [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) (June 2019)
+- [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) by [Vijit Ail](https://vijitail.dev/) (May 2020)
+- [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) By [Chanvin Xiao](https://github.com/vinzid)
+- [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
+- [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
 
 #### Portuguese
 - [Hybrid App Example with Laravel and Vue.js in Portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
@@ -428,6 +467,11 @@
 - [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
 - [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 - [Vue.JS ile NASA API'ını Kullanarak Veri Çekme](https://www.youtube.com/watch?v=uC5b2VDATDU) on YouTube
+- [Vue Introduction in Turkish](https://www.onbirkod.com/vue-js-giris-1/)
+- [Data pulling using Vue-Resource in Turkish](https://www.onbirkod.com/vue-js-2-vue-resource/)
+- [Spa Application using Vue-router in Turkish](https://www.onbirkod.com/vue-js-3-vue-router-ile-bir-spa-uygulamasi/)
+- [Create Vue Projects using Vue-cli in Turkish](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/)
+- [Messaging between Vue components and Vuex in Turkish](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/)
 
 #### Spanish
 - [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube by Juan Andrés Núñez
@@ -455,63 +499,10 @@
 #### Korean
 - [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
-
-
-
-- [The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class)
-- [Vue.js Firebase Realtime Database](https://vueschool.io/courses/vuejs-firebase-realtime-database)
-- [Vue.js Firebase Authentication](https://vueschool.io/courses/vuejs-firebase-authentication)
-- [Dynamic Forms with Vue.js](https://vueschool.io/courses/dynamic-forms-vuejs)
-- [Custom Vue.js Directives](https://vueschool.io/courses/custom-vuejs-directives)
-- [Vue.js Application Development Essentials](https://www.packtpub.com/application-development/vuejs-application-development-essentials-video) by Bartłomiej Potaczek, Packt. (October 2018)
-- [Troubleshooting Vue.js](https://www.packtpub.com/application-development/troubleshooting-vuejs-video) by Christian Hur, Packt. (October 2018)
-- [Nuxt.js - Vue.js on Steroids](https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video) by Maximilian Schwarzmüller, Packt. (October 2018)
-- [Building an Electron File Explorer with Quasar (and Vue)](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) by [@hawkeye64](https://github.com/hawkeye64). (November 2018)
-- [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase/learn/v4/overview) on `Udemy` by [the Net Ninja](https://www.thenetninja.co.uk/)
-- [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) on `Udemy` by Maximilian Schwarzmüller
-- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 1)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-1/) (November 2018)
-- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 2)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-2/) (November 2018)
-- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 3)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-3/) (November 2018)
-- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 4)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-4/) (November 2018)
-- [Adding Internationalization to a Vue Application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application/) (November 2018)
-- [Practical Projects with Vue JS 2](https://www.packtpub.com/web-development/practical-projects-vue-js-2-video) by Jack Herrington, Packt. (December 2018)
 - [Vue.js 기초 다지기 (Video)](https://lessipe.com/course/15) by [Lessipe](https://lessipe.com/)
-- [Full Stack Web Development with Vue.js and Node.js](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-nodejs-video) by Haider Rehman, Packt. (January 2019)
-- [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
-- [Vue Introduction in Turkish](https://www.onbirkod.com/vue-js-giris-1/)
-- [Data pulling using Vue-Resource in Turkish](https://www.onbirkod.com/vue-js-2-vue-resource/)
-- [Spa Application using Vue-router in Turkish](https://www.onbirkod.com/vue-js-3-vue-router-ile-bir-spa-uygulamasi/)
-- [Create Vue Projects using Vue-cli in Turkish](https://www.onbirkod.com/vue-js-4-vue-cli-ile-hazir-gelen-proje-sablonlari/)
-- [Messaging between Vue components and Vuex in Turkish](https://www.onbirkod.com/vue-js-5-bilesenlerin-birbiriyle-haberlesmesi-ve-vuex/)
-- [How to Dynamically Add a Class Name in Vue](https://michaelnthiessen.com/dynamically-add-class-name/) by Michael Thiessen
-- [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) By Felipe Lima [@scaffoldhub_io](https://twitter.com/scaffoldhub_io)
-- [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) by Saibbyweb
-- [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) on [Pluralsight](https://www.pluralsight.com)
-- [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) by Michael Lynch
-- [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
-- [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
-- [Nordschool Vue Tutorials](https://nordschool.com/tag/vue)
-- [Vue Props Validation - Best Practices](https://nordschool.com/vue-props/)
-- [Vue Router - The Complete Guide](https://nordschool.com/vue-router/)
-- [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/)
-- [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
-- [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
-- [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
-- [Vue.js: Build a Full Stack App with Firebase, Vuex and Router [Video]](https://www.packtpub.com/programming/vue-js-build-a-full-stack-app-with-firebase-vuex-and-router-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15745) by Chris Dixon (October 2019)
-- [Vue.js 2 Academy: Learn Vue Step by Step [Video]](https://www.packtpub.com/web-development/vue-js-2-academy-learn-vue-step-by-step-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15754) by Chris Dixon (October 2019)
-- [Blazing-Fast Vue and GraphQL with Gridsome [Video]](https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachV15688) by Reed Barger, Packt
-- [Build Your First Vue.js App in About 30 Minutes](https://raddevon.com/articles/build-your-first-vue-js-app/) by Rad Devon (Video, February 2020)
-- [How to make your components dynamic in Vue JS](https://blog.logrocket.com/how-to-make-your-components-dynamic-in-vue-js/) (September 2019)
-- [Fragments in Vue JS](https://blog.logrocket.com/fragments-in-vue-js/) (December 2019)
-- [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
-- [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [Sharing and re-using Vue Mixins in the cloud with Bit.dev](https://blog.bitsrc.io/sharing-and-reusing-vue-mixins-in-the-cloud-with-bit-dev-830104a48d0b) (May 2019)
-- [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) (June 2019)
-- [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) (June 2019)
-- [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) by [Vijit Ail](https://vijitail.dev/) (May 2020)
-- [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) By [Chanvin Xiao](https://github.com/vinzid)
-- [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
-- [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
+
+
+
 - [Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthisSquare) on Youtube
 - [Vue 3 Composition Api Introduction - Full Tutorial](https://www.youtube.com/watch?v=bwItFdPt-6M)
 - [Building a VueJS chat app with realtime storage of messages in Airtable](https://ably.com/blog/airtable-database-realtime-messages) by Srushtika Neelakantam (December 2020)

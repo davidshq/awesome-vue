@@ -29,7 +29,6 @@
   - [Commercial Products](#commercial-products)
   - [Apps/Websites](#appswebsites)
   - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
   - [A11y](#a11y)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
@@ -337,8 +336,8 @@
 ### Official Examples
 
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
-- [**Vue.js 1.x HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
-- [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
+- [Vue.js 1.x HackerNews Clone](https://github.com/vuejs/vue-hackernews)
+- [Vue.js 2.0 HackerNews Clone](https://github.com/vuejs/vue-hackernews-2.0)
 - [CoffeeScript Version](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js) - Last Updated: 2016
 
 ### Tutorials
@@ -476,8 +475,8 @@
 - [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) - Free course on Vue 3 with intuitive explanations from Vue Mastery
 
 #### Chinese
-- [**讲解 Vue.js 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
-- [**讲解 Vue.js 2 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [讲解 Vue.js 官网 中文-含代码、百度云、youtube](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
+- [讲解 Vue.js 2 官网 中文-含代码、百度云、youtube](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [vue 架构中的 Watcher](https://github.com/dengwanc/dengwanc.github.io/issues/11)
 - [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 - [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
@@ -529,7 +528,7 @@
 - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
 
 #### 2016
-- [**Electron + Vue example**](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
+- [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
 - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
 - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
 - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop)
@@ -546,34 +545,34 @@
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa)
 - [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
 - [vue-memo](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
-- [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([_**demo**_](https://phoenix-vue-auth.herokuapp.com))
+- [App example with JWT Authentication](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([demo](https://phoenix-vue-auth.herokuapp.com))
 - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) by [@shershen08](https://github.com/shershen08)
-- [**vuefire-quickstart**](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
-- [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django) - (Updated: 2017)
-- [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) developed with `Phoenix Framework`, **Vue**, **Vue Router** and **Vuex** ([_**demo**_](https://loopa-news.herokuapp.com)) - (Updated: 2017)
+- [vuefire-quickstart](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
+- [hello-vue-django Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django) - (Updated: 2017)
+- [Real Time Social News App](https://github.com/Angarsk8/loopa-news) developed with `Phoenix Framework`, **Vue**, **Vue Router** and **Vuex** ([_**demo**_](https://loopa-news.herokuapp.com)) - (Updated: 2017)
 
 #### 2018
 - [zhihu-daily-vue](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
-- [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
+- [vue-s3-dropzone](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
 - [ASP.NET Core Vue.js server-side rendering sample](https://github.com/mgyongyosi/VuejsSSRSample) by [@mgyongyosi](https://github.com/mgyongyosi)
 
 #### 2019
-- [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
+- [VueChess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 
 #### 2020
 - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
-- [**easy-vue**](https://github.com/TIGERB/easy-vue) An easy example using Vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
+- [easy-vue](https://github.com/TIGERB/easy-vue) An easy example using Vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 
 #### Chinese
 - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service - 2016
 - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest) - 2016
-- [**vue-shopping**](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18) - 2021
-- [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang) - 2017
-- [**vue-zhihu-daily**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw) - 2017
+- [vue-shopping](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18) - 2021
+- [Vue-cnodejs,060](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang) - 2017
+- [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw) - 2017
 - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic) - 2016
 - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
-- [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
-- [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
+- [vue-AdminLte](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
+- [Vue(2.0) + Node.js: A blog content manage system (CMS)](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
 - [loopback-vue](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page 分页功能,authenticate 权限控制,accesstoken 机制,credentials,CI,docker [qxl1231](https://github.com/qxl1231) - 2021
 
 #### Spanish
@@ -1232,41 +1231,6 @@
 - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
-
-### Enterprise Usage
-
-- Alibaba
-- Baidu
-- Sina Weibo
-- Xiaomi
-- Ele.me
-- Optimizely
-- Expedia
-- UCWeb
-- Line
-- Nintendo
-- Celtra
-- [Sainsbury's](https://sainsburys.jobs/)
-- [AREX](https://arex.io/)
-- DJI
-- Octimine GmbH
-- Hunliji
-- [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
-- [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
-- [ZenMate](https://zenmate.com)
-- [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
-- [Storyblok](https://app.storyblok.com)
-- [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
-- [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
-- Adobe
-- IBM
-- [Cotabox](https://cotabox.com.br)
-- [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
-- [Carrefour](https://www.carrefour.fr)
-- [Staples Canada](https://www.staples.ca/)
-- [Blibli](https://www.blibli.com)
-- [Manduka](https://www.manduka.com/)
-- [Upwork](https://www.upwork.com/) - Work Marketplace for freelancers and employers
 
 ### A11y
 
@@ -3669,6 +3633,42 @@ _Scaffold parts of the app_
 - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
 - [ssr-vuejs-nodejs](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
 - [vue-genesis](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+
+
+### Enterprise Usage
+
+- Alibaba
+- Baidu
+- Sina Weibo
+- Xiaomi
+- Ele.me
+- Optimizely
+- Expedia
+- UCWeb
+- Line
+- Nintendo
+- Celtra
+- [Sainsbury's](https://sainsburys.jobs/)
+- [AREX](https://arex.io/)
+- DJI
+- Octimine GmbH
+- Hunliji
+- [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
+- [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
+- [ZenMate](https://zenmate.com)
+- [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
+- [Storyblok](https://app.storyblok.com)
+- [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
+- [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
+- Adobe
+- IBM
+- [Cotabox](https://cotabox.com.br)
+- [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
+- [Carrefour](https://www.carrefour.fr)
+- [Staples Canada](https://www.staples.ca/)
+- [Blibli](https://www.blibli.com)
+- [Manduka](https://www.manduka.com/)
+- [Upwork](https://www.upwork.com/) - Work Marketplace for freelancers and employers
   <!-- md-parser-end -->
   <br/>
   <br/>
